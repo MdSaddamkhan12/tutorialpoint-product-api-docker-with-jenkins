@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tutorialpoint.demo.exception.ProductNotFoundException;
 import com.tutorialpoint.demo.model.Product;
 import com.tutorialpoint.demo.service.ProductService;
 
